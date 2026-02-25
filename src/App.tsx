@@ -311,7 +311,7 @@ export default function App() {
       <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="Assets/Image_Background_1.png"
+            src="assets/Image_Background_1.png"
             alt="Studio Background"
             className="w-full h-full object-cover opacity-50"
           />
@@ -498,7 +498,7 @@ export default function App() {
           <div className="flex items-center gap-3 mb-8">
             <div className="w-10 h-10 flex items-center justify-center overflow-hidden rounded-sm">
               <img 
-                src="Assets/Logo_1.png" 
+                src="assets/Logo_1.png" 
                 alt="Echo Frame Studios Logo" 
                 className="w-full h-full object-contain"
               />
