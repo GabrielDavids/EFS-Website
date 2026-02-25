@@ -34,7 +34,7 @@ const Navbar = () => {
         <a href="#home" className="flex items-center gap-3 group">
           <div className="w-10 h-10 flex items-center justify-center overflow-hidden rounded-sm group-hover:scale-110 transition-transform">
             <img 
-              src="Assets/Logo_1.png" 
+              src="assets/Logo_1.png" 
               alt="Echo Frame Studios Logo" 
               className="w-full h-full object-contain"
             />
