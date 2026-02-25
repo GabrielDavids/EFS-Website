@@ -34,7 +34,7 @@ const Navbar = () => {
         <a href="#home" className="flex items-center gap-3 group">
           <div className="w-10 h-10 flex items-center justify-center overflow-hidden rounded-sm group-hover:scale-110 transition-transform">
             <img 
-              src="assets/Logo_1.png" 
+              src="/Logo_1.png" 
               alt="Echo Frame Studios Logo" 
               className="w-full h-full object-contain"
             />
@@ -311,7 +311,7 @@ export default function App() {
       <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="assets/Image_Background_1.png"
+            src="/Image_Background_1.png"
             alt="Studio Background"
             className="w-full h-full object-cover opacity-50"
           />
@@ -498,7 +498,7 @@ export default function App() {
           <div className="flex items-center gap-3 mb-8">
             <div className="w-10 h-10 flex items-center justify-center overflow-hidden rounded-sm">
               <img 
-                src="assets/Logo_1.png" 
+                src="/Logo_1.png" 
                 alt="Echo Frame Studios Logo" 
                 className="w-full h-full object-contain"
               />
